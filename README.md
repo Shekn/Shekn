@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB" />
+<img height="8" width="8" src="https://cdn.simpleicons.org/python/#3776AB" />
 
 
  ![](https://komarev.com/ghpvc/?username=your-github-Shekn)
