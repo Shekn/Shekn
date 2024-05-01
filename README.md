@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shekn)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shekn&repo=wesnoth)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shekn&theme=default) 
 
 <!--
 **Shekn/Shekn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
