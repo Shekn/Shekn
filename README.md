@@ -6,6 +6,8 @@
 
  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shekn&repo=wesnoth&theme=graywhite&show_owner=true)
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shekn)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Shekn&theme=oldie&row=2&column=3&margin-w=15&margin-h=15&no-bg=false&no-frame=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shekn)
