@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB" />
+
+
  ![](https://komarev.com/ghpvc/?username=your-github-Shekn)
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shekn&hide=stars,commits,prs,issues,contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=graywhite)
