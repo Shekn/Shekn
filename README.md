@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<img height="14" width="14" src="https://cdn.simpleicons.org/python/#3776AB" />
-<img height="14" width="14" src="https://cdn.simpleicons.org/assemblyscript/#007AAC" />
-<img height="14" width="14" src="https://cdn.simpleicons.org/webassembly/#654FF0" />
+<img height="14" width="14" src="https://cdn.simpleicons.org/python/#3776AB" /> <img height="14" width="14" src="https://cdn.simpleicons.org/assemblyscript/#007AAC" /> <img height="14" width="14" src="https://cdn.simpleicons.org/webassembly/#654FF0" />
 
 
  ![](https://komarev.com/ghpvc/?username=your-github-Shekn)
