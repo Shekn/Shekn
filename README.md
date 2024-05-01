@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Shekn&theme=oldie&row=2&column=3&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=Shekn&theme=oldie&row=2&column=3&margin-w=15&margin-h=15&no-bg=true)
 
 <!--
 **Shekn/Shekn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
